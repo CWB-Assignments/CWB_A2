@@ -18,15 +18,15 @@
 <h2>⭐User can select the no. of entries from the slider</h2>
 <img src="./start.png">
 <h2>⭐Then random data will be added up and a dataframe will be created</h2>
-
+<img src="./dataframe.png">
 
 <h2>⭐The same data will be converted in different data structures like LL,Stack and Queue
 <ul>
   <li><h3>Then we can write the data in the form of various data structures</h3></li>
-
+  <img src="./write.png">
 
   <li><h3>We can even visualize the different data structures using expander</h3></li>
-
+  <img src="./visualize.png">
 
 
 </ul>
