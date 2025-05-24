@@ -37,6 +37,9 @@
 # HOW TO TEST ON YOUR LAPTOP
 <ol>
   <li>Clone the repository using- git clone </li>
+  <img src="./clone.png">
   <li>Install streamlit and other libraries like numpy panda- pip install streamlit/numpy/pandas</li>
+  <img src="./streamlit.png">
   <li>Then open new terminal and write- streamlit run main.py</li>
+  <img src="./final_st.png">
 </ol>
