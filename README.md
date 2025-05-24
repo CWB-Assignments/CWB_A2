@@ -16,7 +16,7 @@
 
 # FLOW➡️
 <h2>⭐User can select the no. of entries from the slider</h2>
-![Dashboard](./start.png)
+<img src="./start.png">
 <h2>⭐Then random data will be added up and a dataframe will be created</h2>
 
 
